@@ -5,3 +5,10 @@ There was a lot of information about the customer such as customer’s job, educ
 
 After initial screening the following variables were selected to be the explanatory variables:
 'job', 'marital', 'default', 'housing', 'loan', 'poutcome'
+
+Libraries used:
+Pandas
+Numpy
+Sklean
+Statsmodels
+Seaborn
